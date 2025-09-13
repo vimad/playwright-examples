@@ -7,3 +7,6 @@ node_modules/
 /playwright/.cache/
 
 .idea
+pw-chromium.png
+pw-firefox.png
+pw-webkit.png

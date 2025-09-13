@@ -10,8 +10,8 @@ export default defineConfig({
         launchOptions: { slowMo: 1000 }
     },
 
-    webServer: {
-        command: 'npm run start',
-        url: 'http://localhost:3000',
-    }
+    // webServer: {
+    //     command: 'npm run start',
+    //     url: 'http://localhost:3000',
+    // }
 });
