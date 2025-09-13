@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Initialize Project \r ``\r npm init playwright@latest\r ``",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "start": "node server.js"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
